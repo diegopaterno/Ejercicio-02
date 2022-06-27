@@ -1,0 +1,66 @@
+* {
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif ;
+}
+
+body {
+    background: rgb(39, 50,56);  
+    font-family: Arial, Gadget, sans-serif;
+    
+}
+h1 {
+    background-color:rgb(255,255 ,255);
+    font-family:Impact, Charcoal, sans-serif;
+    color: rgb(105, 133, 147);
+    font-size: 75px;
+    font-weight: 900;
+    text-align: center;
+
+    
+}
+p {
+    color: rgb(207, 208, 201)
+}
+
+
+h2 {
+    font-family:Arial, Gadget, sans-serif ;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 900;
+}
+.uno {
+    color:rgb(230, 203, 191) ;
+}
+.dos {
+    color:#A1C1CB ;
+}
+.tres {
+    color:rgb(188, 189, 191) ;
+}
+.cuatro {
+    color:rgb(141, 148, 161);
+}
+.cinco {
+    color:rgb(178, 178, 169) ;
+}
+
+img {
+    margin-left: 1cm;
+}
+
+.aspiradora {
+    border: 5px solid rgb(230, 203, 191) ;
+}
+
+.celular {
+    border: 5px solid #A1C1CB ;
+}
+.consola {
+    border: 5px solid rgb(188, 189, 191) ;
+}
+.home{
+    border: 5px solid rgb(141, 148, 161);
+}
+.televisor {
+    border: 5px solid rgb(178, 178, 169) ;
+}
